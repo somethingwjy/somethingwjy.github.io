@@ -2,9 +2,9 @@
 
 
 ### personal information
-name:wjy
-profession:student
-shool:CCUT
-e-mail:somethingwjy@gmail.com
+name:wjy<br/>
+profession:student<br/>
+shool:CCUT<br/>
+e-mail:somethingwjy@gmail.com<br/>
 ### not finished
-The web is just for homework now.T
+The web is just for homework now.TAT<br/>
