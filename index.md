@@ -1,4 +1,4 @@
-### welcome to my page!
+### <center>welcome to my page!</center>
 
 
 ### personal information
